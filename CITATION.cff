@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: hdf5viewer_MATLAB
+message: 'If you use this code, please cite it as below.'
+type: software
+authors:
+  - given-names: Xinyue
+    family-names: Ma
+    email: xinyue.ma@mail.mcgill.ca
+    affiliation: McGill University
+    orcid: 'https://orcid.org/0009-0009-8021-7966'
+identifiers:
+  - type: url
+    value: 'https://github.com/XinyueMa-neuro/hdf5viewer_MATLAB'
+repository-code: 'https://github.com/XinyueMa-neuro/hdf5viewer_MATLAB'
+url: 'https://citation-file-format.github.io/'
+abstract: A MATLAB-based UIFigure viewer for hdf5 files.
+keywords:
+  - hdf5
+  - matlab
+license: GPL-3.0
+date-released: '2024-01-17'
